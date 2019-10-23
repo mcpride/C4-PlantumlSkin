@@ -1,5 +1,5 @@
 !ifndef COLORS_IMPORTED
-!include ../general/colors.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/general/colors.puml
 !endif
 
 ' Queues

@@ -1,13 +1,13 @@
-!include /general/general.puml
-!include /general/legend.puml
-!include /general/notes.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/general/general.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/general/legend.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/general/notes.puml
 
-!include /items/actors.puml
-!include /items/components.puml
-!include /items/containers.puml
-!include /items/dbs.puml
-!include /items/expanded.puml
-!include /items/misc.puml
-!include /items/queues.puml
-!include /items/systems.puml
-!include /items/sequence.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/actors.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/components.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/containers.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/dbs.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/expanded.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/misc.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/queues.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/systems.puml
+!include https://raw.githubusercontent.com/mcpride/C4-PlantumlSkin/mcpride_master/src/items/sequence.puml
