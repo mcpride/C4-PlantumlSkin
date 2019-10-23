@@ -19,3 +19,7 @@ endlegend
 !ifdef ENABLE_STEREOTYPES
 show stereotype
 !endif
+
+!ifdef DISABLE_STEREOTYPES
+hide stereotype
+!endif
