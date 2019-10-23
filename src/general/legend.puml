@@ -16,6 +16,12 @@ legend right
 endlegend
 !endif
 
+!ifdef NO_LEGEND
+!ifdef DISABLE_STEREOTYPES
+hide stereotype
+!endif
+!endif
+
 !ifdef ENABLE_STEREOTYPES
 !ifndef DISABLE_STEREOTYPES
 show stereotype
